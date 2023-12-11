@@ -1,1 +1,1 @@
-# Classification-Model-for-Predicting-Someone-Income-Category-Simple-Categorization-
+# **Classification-Model-for-Predicting-Someone-Income-Category**
