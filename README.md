@@ -6,6 +6,9 @@ This dataset contains information related to the income census of the population
 ### **Background:**
 We are provided with a dataset containing income census data. The information available in this dataset is diverse, including age, occupation class, final weight data, education level, marital status, occupation, relationship status, race, gender, capital gain and loss, hours worked per week, and income label (<=50K, >50K).
 
+### **Problems:**
+Create a classification model to predict whether the income is above $50K/year and explore the characteristics of individuals with income above $50K/year.
+
 ### **Objective:**
 The project is created to `build a classification prediction model` to predict `whether someone's income is above or below $50K/year`. We will also explore the characteristics of individuals earning more than $50K per year. The models to be tried include `KNN, SVM, Decision Tree, Random Forest`. In the process, we will attempt to implement `Pipelines, Cross Validation, Hyperparameter Tuning, and Boosting`. The final predetermined model will then be `deployed with Streamlit on HuggingFace`.
 
