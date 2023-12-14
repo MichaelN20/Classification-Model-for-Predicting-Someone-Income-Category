@@ -1,5 +1,9 @@
 # **Classification-Model-for-Predicting-Someone's-Income-Category**
 
+### **Deployment URL:**
+
+[HuggingFace](https://huggingface.co/spaces/michaeln20/Classification-Model-for-Predicting-Client-Default-Payment-Status)
+
 ### **Dataset Information:**
 This dataset contains information related to the income census of the population.
 
